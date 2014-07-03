@@ -1,3 +1,3 @@
 SSS
 ===
-git init
+to be the NO.1
