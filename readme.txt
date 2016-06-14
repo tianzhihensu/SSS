@@ -15,4 +15,8 @@ add seven.
 
 234234
 sdfsdfsdf
+<<<<<<< HEAD
+we+dev1
+=======
 we+master
+>>>>>>> master
