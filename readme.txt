@@ -9,14 +9,13 @@ add fively.
 
 add six.
 
+master：+1
+
 add seven.
+
 99999999999999999999999
+master:+2
 1212231313131
 
 234234
 sdfsdfsdf
-<<<<<<< HEAD
-we+dev1
-=======
-we+master
->>>>>>> master
